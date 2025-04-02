@@ -22,6 +22,8 @@ Este proyecto no requiere dependencias adicionales más allá de Python.
    4,Débito,75.00
    5,Crédito,150.00
 
+> python scriptInit.py
+
 ## Enfoque y Solución
 
 El script sigue estos pasos:
